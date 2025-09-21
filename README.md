@@ -1,2 +1,13 @@
-# html1
-HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background color</title>
+    <link rel="stylesheet" href="background.css">
+</head>
+<body>
+    <h1 class="title">background color</h1>
+    <p class="box"> box backgroundcolor</p>
+</body>
+</html>
